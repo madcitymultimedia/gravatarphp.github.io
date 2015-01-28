@@ -1,0 +1,26 @@
+<nav class="navbar navbar-inverse navbar-fixed-top">
+	<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="#"></a>
+		</div>
+		<div id="navbar" class="collapse navbar-collapse">
+			<ul class="nav navbar-nav">
+				{% for item in site.navigation %}
+					{% if page.url == item.url %}
+						<li class="active">
+					{% else %}
+						<li>
+					{% endif %}
+						<a href="{{ item.url }}">{{ item.label }}</a>
+					</li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+</nav>

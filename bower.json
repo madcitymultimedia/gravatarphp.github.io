@@ -7,7 +7,8 @@
 	"license": "MIT",
 	"private": true,
 	"devDependencies": {
-		"bootstrap": "~3.3.1",
+		"bootstrap": "3.3.1",
+		"fontawesome": "~4.2.0",
 		"html5shiv": "~3.7.0",
 		"modernizr": "~2.8.0",
 		"respond": "~1.4.0"

@@ -17,3 +17,11 @@ exclude:
 
 # Build settings
 markdown: kramdown
+
+navigation:
+  - label: Home
+    url: /index.html
+  - label: Documentation
+    url: /documentation.html
+  - label: <i class="fa fa-github"></i> Source
+    url: https://github.com/gravatarphp
