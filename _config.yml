@@ -1,0 +1,19 @@
+# Site settings
+title: GravatarPHP
+email: mark.sagikazar@gmail.com
+description: GravatarPHP website
+baseurl: ""
+url: "http://gravatarphp.com"
+twitter_username: sagikazarmark
+github_username:  sagikazarmark
+
+exclude:
+  - bower_components/
+  - node_modules/
+  - Gruntfile.js
+  - README.md
+  - bower.json
+  - package.json
+
+# Build settings
+markdown: kramdown

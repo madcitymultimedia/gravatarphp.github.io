@@ -1,0 +1,14 @@
+# humanstxt.org
+
+# TEAM
+	Founder, Developer: Márk Sági-Kazár
+	Email: mark.sagikazar [at] gmail.com
+	Twitter: @sagikazarmark
+	Location: Budapest, Hungary
+
+# SITE
+	Last update: 2015/1/28
+	Version: 1.0.0
+	Standards: HTML5, CSS3
+	Components: jQuery, Bootstrap, Jekyll
+	Ide: Sublime Text

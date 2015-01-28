@@ -1,0 +1,15 @@
+{
+	"name": "gravatarphp-theme",
+	"version": "1.0.0",
+	"authors": [
+		"Márk Sági-Kazár <mark.sagikazar@gmail.com>"
+	],
+	"license": "MIT",
+	"private": true,
+	"devDependencies": {
+		"bootstrap": "~3.3.1",
+		"html5shiv": "~3.7.0",
+		"modernizr": "~2.8.0",
+		"respond": "~1.4.0"
+	}
+}
