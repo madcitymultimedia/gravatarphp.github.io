@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="gravatarphp.svg">
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/mark/Projects/Gravatar/gravatarphp.github.io/_src/img/logo.png"
+   inkscape:export-xdpi="156"
+   inkscape:export-ydpi="156">
   <defs
      id="defs4">
     <radialGradient
@@ -56,9 +59,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.141818"
-     inkscape:cx="36.196286"
-     inkscape:cy="16.350803"
+     inkscape:zoom="12.063778"
+     inkscape:cx="33.096833"
+     inkscape:cy="13.786631"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -79,7 +82,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -135,13 +138,13 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1e8cbe;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Bold"
-       x="115.0713"
+       x="114.01693"
        y="439.83676"
        id="text3766"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3768"
-         x="115.0713"
+         x="114.01693"
          y="439.83676"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#1e8cbe;fill-opacity:1;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Bold">+</tspan></text>
   </g>

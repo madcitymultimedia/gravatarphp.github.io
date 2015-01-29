@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="gravatarphp.svg">
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="/home/mark/Projects/Gravatar/gravatarphp.github.io/_src/img/favicon.png"
+   inkscape:export-xdpi="540.79999"
+   inkscape:export-ydpi="540.79999">
   <defs
      id="defs4">
     <radialGradient
@@ -56,9 +59,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.141818"
-     inkscape:cx="36.196286"
-     inkscape:cy="55.91915"
+     inkscape:zoom="11.056364"
+     inkscape:cx="41.605"
+     inkscape:cy="41.605"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -135,13 +138,13 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1e8cbe;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Bold"
-       x="115.0713"
+       x="114.01693"
        y="409.6701"
        id="text3766"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3768"
-         x="115.0713"
+         x="114.01693"
          y="409.6701"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#1e8cbe;fill-opacity:1;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Bold">+</tspan></text>
   </g>
